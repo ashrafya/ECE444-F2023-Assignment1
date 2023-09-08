@@ -14,3 +14,5 @@ Merged Pull Request from Branch `develop`
 
 ![Alt text](/Assignment1-Q2-1.png?raw=true "Merge")
 
+## Activity 3
+
